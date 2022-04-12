@@ -1,10 +1,10 @@
-# 👴 Age-Freindly-Busan
+# Age-Freindly-Busan
 
 ## What is Age-Friendly City (AFC)?
 
 - [AFC Meaning](http://afc.bswdi.re.kr/eng/Page.do?code=C101&menu=1)
 
-## Why NECESSARY?
+## Why necessary?
 
 >_It is necessary for us to develop the environment of entire city as being an age-friendly mannered so that all citizens, not just the elderly, can benefit._
 >_[source](http://afc.bswdi.re.kr/eng/Page.do?code=C101&menu=1)_
